@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+<<<<<<< HEAD
+<<<<<<< Upstream, based on origin/master
+=======
+encoding//src/main/java=UTF-8
+>>>>>>> a052d45 removed the noop flag
+=======
+encoding//src/main/java=UTF-8
+>>>>>>> branch 'camel' of https://github.com/DTU-travelpals/camel.git
+encoding//src/main/resources=UTF-8
+encoding/<project>=UTF-8
